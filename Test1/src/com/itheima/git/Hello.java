@@ -8,12 +8,12 @@ public class Hello {
         System.out.println("test1");
         System.out.println("test1");
         System.out.println("test1");
-
         ls();
     }
     public static void ls(){
         for (int i=10;i>0;i--){
             System.out.println(i);
+            System.out.println("lalala");
         }
     }
 }
